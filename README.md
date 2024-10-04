@@ -1,12 +1,12 @@
-Olá, eu sou Fernanda! 👋
+## Olá, eu sou Fernanda! 👋
 
-Sou desenvolvedor(a) apaixonado(a) por tecnologia e open source. 
+Sou desenvolvedor(a) apaixonado(a) por tecnologia. 
 
 - 🌱 Aprendendo atualmente a Linguagem "C#"
 
 
 
 ## 📫 Como me encontrar
-- [Instagram]
+- [Instagram] 
 
   
