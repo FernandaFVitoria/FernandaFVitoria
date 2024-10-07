@@ -1,6 +1,6 @@
 ![Banner](link-da-imagem)
 
-# Olá, eu sou [Fernanda] 👋
+# Olá, eu sou Fernanda 👋
 
 
 
