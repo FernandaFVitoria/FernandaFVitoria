@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/seu-banner.png)
+![Banner](link-da-imagem)
 
 # Olá, eu sou [Fernanda] 👋
 
