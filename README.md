@@ -8,7 +8,7 @@
 
 📫 Email: ferferreira929@gmail.com
 
-📞 (13) 992149269
+📞 (13) 992149369
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaFVitoria&show_icons=true&theme=radical)
 
