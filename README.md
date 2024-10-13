@@ -1,8 +1,8 @@
 # Olá, eu sou a Fernanda👋
 
-🔭 Atuamente estou cursando T.I
+🔭 Altuamente estou cursando T.I
 
-🌱 Atuamente estou aprendendo C# 
+🌱 Altuamente estou aprendendo C# 
 
 💬 Estudante 1/3
 
