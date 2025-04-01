@@ -2,9 +2,9 @@
 
 🔭 Altuamente estou cursando T.I
 
-🌱 Altuamente estou aprendendo C# 
+🌱 Altuamente estou aprendendo C#, Python, Html e CSS
 
-💬 Estudante 1/3
+💬 Estudante 2/3
 
 📫 Email: ferferreira929@gmail.com
 
